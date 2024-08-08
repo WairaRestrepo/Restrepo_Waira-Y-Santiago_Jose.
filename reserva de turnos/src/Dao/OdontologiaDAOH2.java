@@ -10,7 +10,7 @@ import java.sql.Statement;
 import java.util.ArrayList;
 import java.util.List;
 
-public class OdontologiaDAOH2 implements  iDao <Odontologo> {
+public class OdontologiaDAOH2 implements  iDao<Odontologo> {
     /*
 
     private String nombre;
